@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "oreo_mod:oreo_cookie"
+    },
+    "b": {
+      "item": "oreo_mod:oreo_cream"
+    }
+  },
+  "result": {
+    "item": "oreo_mod:oreo",
+    "count": 1
+  }
+}

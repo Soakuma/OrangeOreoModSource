@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "oreo_mod:oreo"
+    },
+    {
+      "item": "oreo_mod:orange"
+    }
+  ],
+  "result": {
+    "item": "oreo_mod:orange_oreo",
+    "count": 1
+  }
+}
